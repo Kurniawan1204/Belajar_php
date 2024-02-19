@@ -44,8 +44,8 @@ if($NIT && $NAMA && $KELAS && $JURUSAN){
     <link rel="stylesheet" href="index.css">
 
    
-		<!--- Favicon --->
-		<link rel="icon" href="icon.log.png" />
+<!--- Favicon --->
+<link rel="icon" href="icon.log.png" />
 
 <!-- Bootstrap css -->
 <link href="../assets/plugins/bootstrap/css/bootstrap.css" rel="stylesheet" id="style"/>
@@ -61,9 +61,9 @@ if($NIT && $NAMA && $KELAS && $JURUSAN){
 <link href="../assets/css/animate.css" rel="stylesheet">
 </head>
 <body class="d-block">
-    <div>
-<!-- row -->
-<div class="row">
+			 <div>
+				<!-- row -->
+				<div class="row">
 					<div class="col-sm-12 col-md-4 mx-auto mt-3">
 						<div class="card custom-card bd-primary bd-5 mx-auto ">
 							<div class="card-body text-center bg-danger-transparent">
@@ -76,22 +76,19 @@ if($NIT && $NAMA && $KELAS && $JURUSAN){
 								<p class="text-muted text-center mt-1">Lorem Ipsum is not simply random text to popular belief Contrary.</p>
 								<div class="justify-content-center text-center mt-3 d-flex">
 									<a   href="https://www.facebook.com/kurniawan.soleh.56?mibextid=ZbWKwL" class="btn ripple btn-primary btn-icon me-3">
-                  					<i class="fab fa-facebook-f"></i>
+                  								<i class="fab fa-facebook-f"></i>
 									</a>
 									<a   href="https://instagram.com/wanxyzt?igshid=MzNlNGNkZWQ4Mg" class="btn ripple btn-danger btn-opacity-50 btn-icon me-3">
 										 <i class="fab fa-instagram"></i>
-                					</a>
+                							</a>
 									<a   href="https://github.com/Kurniawan1204/Belajar-php.git" class="btn ripple btn-dark btn-icon me-3">
-                  					<i class="fab fa-github"></i>
-              						 </a>
+                  							<i class="fab fa-github"></i>
+              								 </a>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-       <!-- Array adalah salah satu struktur data yang berisi sekumpulan data dan memiliki indeks. Indeks digunakan untuk mengakses nilai array.
-        Indeks array selalu dimulai dari nol (0). -->
-        <!-- Array di PHP dapat kita buat dengan fungsi array() dan tanda kurung kotak []. -->
 			</div>
 		</div>
 </div>
